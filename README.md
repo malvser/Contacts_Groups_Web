@@ -1,2 +1,2 @@
 # Contacts_Groups_Web
-Spring Boot + Spring Data Jpa + MySQL + JSP + JSTL + Bootstrap
+Spring Boot + Spring Data Jpa + Maven + MySQL + JSP + JSTL + Bootstrap
